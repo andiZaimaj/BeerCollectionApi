@@ -1,0 +1,6 @@
+@BeerCollectionApi_HostAddress = http://localhost:5128
+
+GET {{BeerCollectionApi_HostAddress}}/beers/
+Accept: application/json
+
+###
